@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "RootWise Garden Dashboard",
+  "short_name": "RootWise",
+  "description": "Water smarter. Grow stronger.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8faf6",
+  "theme_color": "#1b6a49",
+  "icons": [
+    { "src": "/rootwise.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
